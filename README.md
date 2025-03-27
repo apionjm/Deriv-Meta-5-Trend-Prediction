@@ -17,7 +17,7 @@ Free Version:
 
 Paid version:
 
-![Screenshot 2025-03-25 180755](https://github.com/user-attachments/assets/ded840d4-bf9d-40de-a8b2-0b06ba9390ad)
+![Screenshot 2025-03-27 153001](https://github.com/user-attachments/assets/8c740f03-c664-4dac-8116-7cc0906945b9)
 
 Python version
 ```
